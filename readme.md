@@ -27,6 +27,7 @@ CREATE DATABASE import_csv;
 
 <pre> composer install </pre>
 <pre> php artisan key:generate</pre>
+<pre> php artisan migrate</pre>
 
 ### Execute o servidor localmente
 
