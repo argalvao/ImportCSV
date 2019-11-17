@@ -1,0 +1,5 @@
+Hora(hh:mm:ss),latitude,longitude ,altitude(m),temperatura(C),humidade(%),nível de CO2(ppm),luminosidade(lux),pressão acústica(dB),radiação UV(uv)
+12:20:54,455,767,13,25,10,56,45,78,22
+09:32:01,656,564,67,32,12,45,16,90,19
+06:08:77,88,90,87,10,45,22,66,10,15
+18:50:05,88,90,87,10,45,22,66,10,15
